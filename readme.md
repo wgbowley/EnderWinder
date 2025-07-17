@@ -1,6 +1,6 @@
 # EnderWinder
 
-A tool for generating G-code to lay copper wire along custom 3D paths on Ender-style printers. Includes tension control and hardware for guiding the wire around complex forms.
+A tool for generating G-code to lay copper wire along custom 3D paths on Ender-style printers. Includes tension control and hardware for guiding the wire around custom forms.
 
 **Early development** – features are experimental and incomplete.
 
